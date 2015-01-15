@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest2" Id="a7741311-3846-4c15-be9e-37c3077c4fe6" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest2.4a95d724-45a3-42a0-94cf-aa00b95ffbe7.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="daa9871e-5ddd-49b0-9551-bb9c66bf92c4" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="28" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam1.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="IST" RecordedValue="IST" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="HAM" RecordedValue="HAM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-04-15" RecordedValue="2015-04-15" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="09879409-7ee9-4c2f-a32d-42069ac980aa" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="40" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam19.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="AYT" RecordedValue="AYT" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="HAM" RecordedValue="HAM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-04-15" RecordedValue="2015-04-15" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a38c8e63-832d-4e54-8e93-36c5b2333f39" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="46" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam54.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="ESB" RecordedValue="ESB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="HAM" RecordedValue="HAM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-04-15" RecordedValue="2015-04-15" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="d3325f3b-a904-4c71-b970-b1312f809297" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="42" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam106.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="IST" RecordedValue="IST" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="SAF" RecordedValue="SAF" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-03-12" RecordedValue="2015-03-12" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="7f4e017b-4136-4849-a69f-449be6e3acbb" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="27" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam175.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="AYT" RecordedValue="AYT" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="CBG" RecordedValue="CBG" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-03-12" RecordedValue="2015-03-12" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a15530b5-c365-4a26-92f0-1686239341a0" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="38" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam261.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="HAM" RecordedValue="HAM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="CAK" RecordedValue="CAK" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-03-12" RecordedValue="2015-03-12" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="867983ce-48e3-43ae-b518-5181ebb560da" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="30" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam364.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="CBG" RecordedValue="CBG" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="IST" RecordedValue="IST" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-03-12" RecordedValue="2015-03-12" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c880a575-6709-4e9e-8278-05ec986c3feb" Version="1.1" Url="http://localhost:2885/api/Flight/SearchFlight" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="AuthenticationKey" Value="8de545a4d57c4e91b545e6eb81828c8a" RecordedValue="8de545a4d57c4e91b545e6eb81828c8a" CorrelationBinding="{{QueryStringParam484.AuthenticationKey}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="From" Value="ESB" RecordedValue="ESB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="To" Value="SAF" RecordedValue="SAF" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Date" Value="2015-03-12" RecordedValue="2015-03-12" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Adult" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Child" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passenger.Infant" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="CabinCode" Value="Economy" RecordedValue="Economy" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="refundableType" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxPrice" Value="9999" RecordedValue="9999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Currency" Value="TRY" RecordedValue="TRY" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>
