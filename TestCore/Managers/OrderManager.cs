@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using TestCore.Interfaces;
+﻿using TestCore.Interfaces;
 using TestCore.Models;
 
 namespace TestCore.Managers

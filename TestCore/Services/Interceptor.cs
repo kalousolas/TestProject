@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using Castle.DynamicProxy;
-using TestCore.InfraStructure;
-using TestCore.Interfaces;
+using NLog;
 using TestCore.Managers;
 
 
@@ -12,20 +8,14 @@ namespace TestCore.Services
 {
     public class Interceptor : IInterceptor
     {
-        private static ILogger __logger;
+        private static Logger __logger;
 
         public Interceptor()
         {
             //__logger = IoC.Resolve<ILogger>();
-             __logger = new LoggerManager();
+            // __logger = new LoggerManager();
+            __logger = LoggerManager.Logger;
         }
-
-        //private readonly ILogger __logger;
-
-        //public Interceptor(ILogger logger)
-        //{
-        //    __logger = logger;
-        //}
 
         public void Intercept(IInvocation invocation)
         {

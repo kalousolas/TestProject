@@ -6,11 +6,24 @@ namespace TestCore.Managers
 {
     public class LoggerManager : ILogger
     {
-        private static readonly Logger __logger;
+        private static Logger __logger;
 
-        static LoggerManager()
+
+        private LoggerManager()
         {
-            __logger = LogManager.GetCurrentClassLogger();
+          //  __logger = LogManager.GetCurrentClassLogger();
+        }
+
+        public static Logger Logger
+        {
+            get
+            {
+                if (__logger == null)
+                {
+                    __logger = LogManager.GetCurrentClassLogger();
+                }
+                return __logger;
+            }
         }
 
         public void Trace(string message)

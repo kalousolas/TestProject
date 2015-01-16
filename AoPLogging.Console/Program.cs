@@ -17,8 +17,6 @@ namespace AoPLogging.Console
             Processor proc = new Processor();
             proc.Order();
             proc.StartTransaction();
-            //proc.DoSomething();
-            //proc.StopTransaction();
           //  System.Console.ReadKey();
         }
     }
@@ -58,7 +56,7 @@ namespace AoPLogging.Console
 
         public void DoSomething()
         {
-          //  __logger.Error("service error",new Exception().InnerException); 
+
         }
 
         public void StopTransaction()
