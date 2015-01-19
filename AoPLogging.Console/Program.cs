@@ -24,13 +24,13 @@ namespace AoPLogging.Console
     class Processor
     {
        // private static ILogger __logger;
-        private static IOrderProcessor __order;
+        private  IOrderProcessor __order;
 
         public Processor()
         {
            // __logger = new LoggerManager();
           //  __logger = IoC.Resolve<ILogger>();
-            //__order = new OrderManager();
+            //__order = new OrderService();
             __order = IoC.Resolve<IOrderProcessor>();
 
         }

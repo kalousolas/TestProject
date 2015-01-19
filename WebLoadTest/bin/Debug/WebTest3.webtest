@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest3" Id="a4cbb4eb-da83-43cb-9c2c-84010c6ef08a" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest3.0f1d87d3-4ac7-450b-b672-4442ef92d1cd.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="189a1c2b-f2b3-4878-aab2-c67e58cb612d" Version="1.1" Url="http://localhost:2885/api/Flight/Book" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="46f4ecf5-780e-4478-bbf4-76ea4b3f7966" Version="1.1" Url="http://localhost:2885/api/Flight/Book" ThinkTime="134" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <QueryStringParameters>
+            <QueryStringParameter Name="ItineraryId" Value="e701f2eb4aec4e2d8bfc1ac06bc81ea7" RecordedValue="e701f2eb4aec4e2d8bfc1ac06bc81ea7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="IsRezervation" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.AgencyCode" Value="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" RecordedValue="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.ApiPassword" Value="*ST%3dame3W;aq" RecordedValue="*ST%3dame3W;aq" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.UserName" Value="omer.onal@mikatur.com" RecordedValue="omer.onal@mikatur.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.Password" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].PassengerType" Value="Adult" RecordedValue="Adult" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].Gender" Value="True" RecordedValue="True" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].FirstName" Value="%C3%96mer" RecordedValue="%C3%96mer" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].LastName" Value="%C3%96nal" RecordedValue="%C3%96nal" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].BirthDate" Value="09.06.1985%2000:00:00" RecordedValue="09.06.1985%2000:00:00" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Email" Value="omer.onal@gmail.com" RecordedValue="omer.onal@gmail.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.InvoiceType" Value="Person" RecordedValue="Person" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Name" Value="Omer%20ONAL" RecordedValue="Omer%20ONAL" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Address" Value="Kagithane" RecordedValue="Kagithane" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.PostalCode" Value="34410" RecordedValue="34410" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.City" Value="Istanbul" RecordedValue="Istanbul" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Country" Value="Turkiye" RecordedValue="Turkiye" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.TaxNumber" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.TaxOffice" Value="Zincirlikuyu" RecordedValue="Zincirlikuyu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+      <QueryStringParameters>
+        <QueryStringParameter Name="ItineraryId" Value="e701f2eb4aec4e2d8bfc1ac06bc81ea7" RecordedValue="e701f2eb4aec4e2d8bfc1ac06bc81ea7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="IsRezervation" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.AgencyCode" Value="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" RecordedValue="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.ApiPassword" Value="*ST=ame3W;aq" RecordedValue="*ST=ame3W;aq" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.UserName" Value="omer.onal@mikatur.com" RecordedValue="omer.onal@mikatur.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.Password" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].PassengerType" Value="Adult" RecordedValue="Adult" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].Gender" Value="True" RecordedValue="True" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].FirstName" Value="%C3%96mer" RecordedValue="%C3%96mer" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].LastName" Value="%C3%96nal" RecordedValue="%C3%96nal" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].BirthDate" Value="09.06.1985%2000:00:00" RecordedValue="09.06.1985%2000:00:00" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Email" Value="omer.onal@gmail.com" RecordedValue="omer.onal@gmail.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.InvoiceType" Value="Person" RecordedValue="Person" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Name" Value="Omer%20ONAL" RecordedValue="Omer%20ONAL" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Address" Value="Kagithane" RecordedValue="Kagithane" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.PostalCode" Value="34410" RecordedValue="34410" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.City" Value="Istanbul" RecordedValue="Istanbul" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Country" Value="Turkiye" RecordedValue="Turkiye" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.TaxNumber" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.TaxOffice" Value="Zincirlikuyu" RecordedValue="Zincirlikuyu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="81fda67f-be55-4f73-aa0d-f59c3feaef91" Version="1.1" Url="http://localhost:2885/api/Flight/Book" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="2fd92068-fd78-4ca5-8ccd-e99af030e7d9" Version="1.1" Url="http://localhost:2885/api/Flight/Book" ThinkTime="30" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <QueryStringParameters>
+            <QueryStringParameter Name="ItineraryId" Value="53f63d0b44074b08a26f311da7135096" RecordedValue="53f63d0b44074b08a26f311da7135096" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="IsRezervation" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.AgencyCode" Value="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" RecordedValue="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.ApiPassword" Value="*ST%3dame3W;aq" RecordedValue="*ST%3dame3W;aq" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.UserName" Value="omer.onal@mikatur.com" RecordedValue="omer.onal@mikatur.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.Password" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].PassengerType" Value="Adult" RecordedValue="Adult" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].Gender" Value="True" RecordedValue="True" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].FirstName" Value="%C3%96mer" RecordedValue="%C3%96mer" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].LastName" Value="%C3%96nal" RecordedValue="%C3%96nal" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].BirthDate" Value="09.06.1985%2000:00:00" RecordedValue="09.06.1985%2000:00:00" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Email" Value="omer.onal@gmail.com" RecordedValue="omer.onal@gmail.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.InvoiceType" Value="Person" RecordedValue="Person" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Name" Value="Omer%20ONAL" RecordedValue="Omer%20ONAL" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Address" Value="Kagithane" RecordedValue="Kagithane" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.PostalCode" Value="34410" RecordedValue="34410" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.City" Value="Istanbul" RecordedValue="Istanbul" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Country" Value="Turkiye" RecordedValue="Turkiye" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.TaxNumber" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.TaxOffice" Value="Zincirlikuyu" RecordedValue="Zincirlikuyu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+      <QueryStringParameters>
+        <QueryStringParameter Name="ItineraryId" Value="53f63d0b44074b08a26f311da7135096" RecordedValue="53f63d0b44074b08a26f311da7135096" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="IsRezervation" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.AgencyCode" Value="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" RecordedValue="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.ApiPassword" Value="*ST=ame3W;aq" RecordedValue="*ST=ame3W;aq" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.UserName" Value="omer.onal@mikatur.com" RecordedValue="omer.onal@mikatur.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.Password" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].PassengerType" Value="Adult" RecordedValue="Adult" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].Gender" Value="True" RecordedValue="True" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].FirstName" Value="%C3%96mer" RecordedValue="%C3%96mer" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].LastName" Value="%C3%96nal" RecordedValue="%C3%96nal" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].BirthDate" Value="09.06.1985%2000:00:00" RecordedValue="09.06.1985%2000:00:00" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Email" Value="omer.onal@gmail.com" RecordedValue="omer.onal@gmail.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.InvoiceType" Value="Person" RecordedValue="Person" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Name" Value="Omer%20ONAL" RecordedValue="Omer%20ONAL" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Address" Value="Kagithane" RecordedValue="Kagithane" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.PostalCode" Value="34410" RecordedValue="34410" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.City" Value="Istanbul" RecordedValue="Istanbul" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Country" Value="Turkiye" RecordedValue="Turkiye" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.TaxNumber" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.TaxOffice" Value="Zincirlikuyu" RecordedValue="Zincirlikuyu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="0cf1efa4-91cd-4b00-9a9d-55ca835fcc98" Version="1.1" Url="http://localhost:2885/api/Flight/BookCharge" ThinkTime="23" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="referenceId" Value="68956d28e9934a84b4a5f8831863d376" RecordedValue="68956d28e9934a84b4a5f8831863d376" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="5c69e726-cde6-4f32-8671-f5d3fc29f4e3" Version="1.1" Url="http://localhost:2885/api/Flight/Book" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="41991924-5fe4-4030-90be-306b9f13eec7" Version="1.1" Url="http://localhost:2885/api/Flight/Book" ThinkTime="17" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <QueryStringParameters>
+            <QueryStringParameter Name="ItineraryId" Value="c2e6a05dfcd44142934755d6257e582e" RecordedValue="c2e6a05dfcd44142934755d6257e582e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="IsRezervation" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.AgencyCode" Value="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" RecordedValue="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.ApiPassword" Value="*ST%3dame3W;aq" RecordedValue="*ST%3dame3W;aq" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.UserName" Value="omer.onal@mikatur.com" RecordedValue="omer.onal@mikatur.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Authentication.Password" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].PassengerType" Value="Adult" RecordedValue="Adult" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].Gender" Value="True" RecordedValue="True" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].FirstName" Value="%C3%96mer" RecordedValue="%C3%96mer" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].LastName" Value="%C3%96nal" RecordedValue="%C3%96nal" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Passengers[0].BirthDate" Value="09.06.1985%2000:00:00" RecordedValue="09.06.1985%2000:00:00" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.GSM.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Phone.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Email" Value="omer.onal@gmail.com" RecordedValue="omer.onal@gmail.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.InvoiceType" Value="Person" RecordedValue="Person" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Name" Value="Omer%20ONAL" RecordedValue="Omer%20ONAL" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Address" Value="Kagithane" RecordedValue="Kagithane" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.PostalCode" Value="34410" RecordedValue="34410" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.City" Value="Istanbul" RecordedValue="Istanbul" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.Country" Value="Turkiye" RecordedValue="Turkiye" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.TaxNumber" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ContactInfo.Invoice.TaxOffice" Value="Zincirlikuyu" RecordedValue="Zincirlikuyu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+      <QueryStringParameters>
+        <QueryStringParameter Name="ItineraryId" Value="c2e6a05dfcd44142934755d6257e582e" RecordedValue="c2e6a05dfcd44142934755d6257e582e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="IsRezervation" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.AgencyCode" Value="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" RecordedValue="f96c1ffd-3cc3-4364-a3e9-4e13ee69e0e8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.ApiPassword" Value="*ST=ame3W;aq" RecordedValue="*ST=ame3W;aq" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.UserName" Value="omer.onal@mikatur.com" RecordedValue="omer.onal@mikatur.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Authentication.Password" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].PassengerType" Value="Adult" RecordedValue="Adult" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].Gender" Value="True" RecordedValue="True" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].FirstName" Value="%C3%96mer" RecordedValue="%C3%96mer" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].LastName" Value="%C3%96nal" RecordedValue="%C3%96nal" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Passengers[0].BirthDate" Value="09.06.1985%2000:00:00" RecordedValue="09.06.1985%2000:00:00" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.GSM.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.CountryCode" Value="90" RecordedValue="90" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.CityCode" Value="532" RecordedValue="532" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Phone.Phone" Value="4379197" RecordedValue="4379197" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Email" Value="omer.onal@gmail.com" RecordedValue="omer.onal@gmail.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.InvoiceType" Value="Person" RecordedValue="Person" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Name" Value="Omer%20ONAL" RecordedValue="Omer%20ONAL" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Address" Value="Kagithane" RecordedValue="Kagithane" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.PostalCode" Value="34410" RecordedValue="34410" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.City" Value="Istanbul" RecordedValue="Istanbul" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.Country" Value="Turkiye" RecordedValue="Turkiye" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.TaxNumber" Value="123456" RecordedValue="123456" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ContactInfo.Invoice.TaxOffice" Value="Zincirlikuyu" RecordedValue="Zincirlikuyu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="type" Value="xml" RecordedValue="xml" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="6f5c1ea4-2c7b-4ce4-8e86-f35cb6d33175" Version="1.1" Url="http://localhost:2885/api/Flight/BookCharge" ThinkTime="158" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="referenceId" Value="fad2422310f4420ab8db731d68a1ad56" RecordedValue="fad2422310f4420ab8db731d68a1ad56" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="3da186a6-e345-4fd6-9f13-6775f9ba4375" Version="1.1" Url="http://localhost:2885/api/Flight/BookCharge" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="referenceId" Value="2667b52c772845d9be370cb8c86cfebf" RecordedValue="2667b52c772845d9be370cb8c86cfebf" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

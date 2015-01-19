@@ -8,7 +8,7 @@ namespace TestCore.Services
 {
     public class Interceptor : IInterceptor
     {
-        private static Logger __logger;
+        private Logger __logger;
 
         public Interceptor()
         {

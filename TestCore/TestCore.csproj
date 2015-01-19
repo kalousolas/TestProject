@@ -97,7 +97,7 @@
     <Compile Include="Interfaces\ILogger.cs" />
     <Compile Include="Interfaces\IOrderProcessor.cs" />
     <Compile Include="Managers\LoggerManager.cs" />
-    <Compile Include="Managers\OrderManager.cs" />
+    <Compile Include="Services\OrderService.cs" />
     <Compile Include="Managers\TestManager.cs" />
     <Compile Include="Models\AirWayClassTypes.cs" />
     <Compile Include="Models\Order.cs" />

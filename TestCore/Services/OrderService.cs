@@ -3,7 +3,7 @@ using TestCore.Models;
 
 namespace TestCore.Managers
 {
-    public class OrderManager : IOrderProcessor
+    public class OrderService : IOrderProcessor
     {
         public bool ProcessOrder(Order newOrder)
         {

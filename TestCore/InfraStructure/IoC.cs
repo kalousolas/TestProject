@@ -30,7 +30,7 @@ namespace TestCore.InfraStructure
                      Component.For<Interceptor>().LifeStyle.Transient,
                 // Component.For<IMessageSender>().ImplementedBy<MailSender>().Interceptors<Interceptor>(),
                 // Component.For<ILogger>().ImplementedBy<LoggerManager>().Interceptors<Interceptor>(),
-                     Component.For<IOrderProcessor>().ImplementedBy<OrderManager>().Interceptors<Interceptor>()
+                     Component.For<IOrderProcessor>().ImplementedBy<OrderService>().Interceptors<Interceptor>()
 
                      // Component.For<IInterceptor>().ImplementedBy<Interceptor>().Interceptors(InterceptorReference.ForType<Interceptor>()).First);            
              );
