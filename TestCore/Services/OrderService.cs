@@ -1,7 +1,7 @@
 ﻿using TestCore.Interfaces;
 using TestCore.Models;
 
-namespace TestCore.Managers
+namespace TestCore.Services
 {
     public class OrderService : IOrderProcessor
     {

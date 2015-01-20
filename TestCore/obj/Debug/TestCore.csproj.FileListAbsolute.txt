@@ -17,3 +17,9 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\b
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\obj\Debug\TestCore.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\obj\Debug\TestCore.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\obj\Debug\TestCore.pdb
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\bin\System.Net.Http.Formatting.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\bin\System.Web.Http.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\bin\System.Web.Http.WebHost.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\bin\System.Net.Http.Formatting.xml
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\bin\System.Web.Http.xml
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\bin\System.Web.Http.WebHost.xml

@@ -3,7 +3,6 @@ using Castle.DynamicProxy;
 using NLog;
 using TestCore.Managers;
 
-
 namespace TestCore.Services
 {
     public class Interceptor : IInterceptor

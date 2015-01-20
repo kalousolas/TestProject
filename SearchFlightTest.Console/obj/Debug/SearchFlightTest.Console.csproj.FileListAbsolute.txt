@@ -19,3 +19,9 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlig
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\obj\Debug\SearchFlightTest.Console.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\obj\Debug\SearchFlightTest.Console.exe
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\obj\Debug\SearchFlightTest.Console.pdb
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\bin\Debug\System.Web.Http.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\bin\Debug\System.Web.Http.xml
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SearchFlightTest.Console\bin\Debug\System.Net.Http.Formatting.xml
