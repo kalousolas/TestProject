@@ -1,0 +1,6 @@
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestData\bin\TestData.dll.config
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestData\bin\TestData.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestData\bin\TestData.pdb
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestData\obj\Debug\TestData.csprojResolveAssemblyReference.cache
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestData\obj\Debug\TestData.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestData\obj\Debug\TestData.pdb

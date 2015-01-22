@@ -1,0 +1,8 @@
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\bin\TestCommon.dll.config
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\bin\TestCommon.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\bin\TestCommon.pdb
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\bin\TestFields.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\bin\TestFields.pdb
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\obj\Debug\TestCommon.csprojResolveAssemblyReference.cache
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\obj\Debug\TestCommon.dll
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCommon\obj\Debug\TestCommon.pdb
