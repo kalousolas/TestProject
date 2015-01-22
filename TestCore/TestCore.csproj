@@ -113,7 +113,7 @@
     <Compile Include="Interfaces\IFlightApiTestService.cs" />
     <Compile Include="Interfaces\ILogger.cs" />
     <Compile Include="Interfaces\IOrderProcessor.cs" />
-    <Compile Include="Managers\CacheManagercs.cs" />
+    <Compile Include="Managers\CacheManager.cs" />
     <Compile Include="Managers\LoggerManager.cs" />
     <Compile Include="Services\OrderService.cs" />
     <Compile Include="Managers\TestManager.cs" />

@@ -1,6 +1,0 @@
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\bin\TestStatic.dll.config
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\bin\TestStatic.dll
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\bin\TestStatic.pdb
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\obj\Debug\TestStatic.csprojResolveAssemblyReference.cache
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\obj\Debug\TestStatic.dll
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\obj\Debug\TestStatic.pdb

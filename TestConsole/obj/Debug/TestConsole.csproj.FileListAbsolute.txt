@@ -1,6 +1,0 @@
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestConsole\bin\Debug\TestConsole.exe.config
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestConsole\bin\Debug\TestConsole.exe
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestConsole\bin\Debug\TestConsole.pdb
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestConsole\obj\Debug\TestConsole.exe
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestConsole\obj\Debug\TestConsole.pdb
