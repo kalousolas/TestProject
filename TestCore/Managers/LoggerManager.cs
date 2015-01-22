@@ -7,11 +7,12 @@ namespace TestCore.Managers
     public class LoggerManager : ILogger
     {
         private static Logger __logger;
+        static readonly object __lockObj = new object();
 
 
         private LoggerManager()
         {
-          //  __logger = LogManager.GetCurrentClassLogger();
+            //  __logger = LogManager.GetCurrentClassLogger();
         }
 
         public static Logger Logger
@@ -20,7 +21,13 @@ namespace TestCore.Managers
             {
                 if (__logger == null)
                 {
-                    __logger = LogManager.GetCurrentClassLogger();
+                    lock (__lockObj)
+                    {
+                        if (__logger == null)
+                        {
+                            __logger = LogManager.GetCurrentClassLogger();
+                        } 
+                    }
                 }
                 return __logger;
             }

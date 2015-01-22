@@ -84,7 +84,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="InfraStructure\Global.asax" />
     <Content Include="packages.config" />
     <Content Include="NLog.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -106,16 +105,15 @@
   <ItemGroup>
     <Compile Include="Atributes\LogAttribute.cs" />
     <Compile Include="Client.cs" />
-    <Compile Include="InfraStructure\Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
     <Compile Include="InfraStructure\Installer.cs" />
     <Compile Include="InfraStructure\Bootstrapper.cs" />
     <Compile Include="InfraStructure\WindsorDependencyResolver.cs" />
     <Compile Include="InfraStructure\WindsorDependencyScope.cs" />
+    <Compile Include="Interfaces\ICacheManager.cs" />
     <Compile Include="Interfaces\IFlightApiTestService.cs" />
     <Compile Include="Interfaces\ILogger.cs" />
     <Compile Include="Interfaces\IOrderProcessor.cs" />
+    <Compile Include="Managers\CacheManagercs.cs" />
     <Compile Include="Managers\LoggerManager.cs" />
     <Compile Include="Services\OrderService.cs" />
     <Compile Include="Managers\TestManager.cs" />
