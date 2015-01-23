@@ -1,6 +1,5 @@
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\bin\TestFields.dll.config
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\bin\TestFields.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\bin\TestFields.pdb
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\obj\Debug\TestFields.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\obj\Debug\TestFields.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\obj\Debug\TestFields.pdb

@@ -60,6 +60,5 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\bi
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\bin\System.Web.Http.Owin.xml
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\obj\Debug\TestApi.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\obj\Debug\TestApi.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\obj\Debug\TestApi.pdb
