@@ -62,3 +62,4 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\bi
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\bin\System.Web.Http.Owin.xml
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\obj\Debug\TestApi.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\obj\Debug\TestApi.pdb
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestApi\obj\Debug\TestApi.csprojResolveAssemblyReference.cache
