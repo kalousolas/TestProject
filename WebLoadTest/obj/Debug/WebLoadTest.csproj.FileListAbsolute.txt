@@ -7,4 +7,3 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\WebLoadTes
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\WebLoadTest\bin\Debug\WebLoadTest.pdb
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\WebLoadTest\obj\Debug\WebLoadTest.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\WebLoadTest\obj\Debug\WebLoadTest.pdb
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\WebLoadTest\obj\Debug\WebLoadTest.csprojResolveAssemblyReference.cache

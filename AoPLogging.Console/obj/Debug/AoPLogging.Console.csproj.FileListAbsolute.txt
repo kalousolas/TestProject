@@ -1,5 +1,5 @@
-C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\bin\Debug\AoPLogging.Console.exe.config
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\bin\Debug\NLog.config
+C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\bin\Debug\AoPLogging.Console.exe.config
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\bin\Debug\AoPLogging.Console.exe
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\bin\Debug\AoPLogging.Console.pdb
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\bin\Debug\TestCore.dll
