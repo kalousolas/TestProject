@@ -23,3 +23,28 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SeleniumTe
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SeleniumTest.Console\obj\Debug\SeleniumTest.Console.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SeleniumTest.Console\obj\Debug\SeleniumTest.Console.exe
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\SeleniumTest.Console\obj\Debug\SeleniumTest.Console.pdb
+E:\Projects\SeleniumTest.Console\bin\Debug\NLog.config
+E:\Projects\SeleniumTest.Console\bin\Debug\SeleniumTest.Console.exe.config
+E:\Projects\SeleniumTest.Console\bin\Debug\SeleniumTest.Console.exe
+E:\Projects\SeleniumTest.Console\bin\Debug\SeleniumTest.Console.pdb
+E:\Projects\SeleniumTest.Console\bin\Debug\TestCore.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\WebDriver.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\Castle.Windsor.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\System.Web.Http.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\Castle.Core.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\NLog.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\TestCommon.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\SeleniumTest.Console\bin\Debug\TestCore.pdb
+E:\Projects\SeleniumTest.Console\bin\Debug\WebDriver.xml
+E:\Projects\SeleniumTest.Console\bin\Debug\Castle.Windsor.xml
+E:\Projects\SeleniumTest.Console\bin\Debug\System.Web.Http.xml
+E:\Projects\SeleniumTest.Console\bin\Debug\Castle.Core.xml
+E:\Projects\SeleniumTest.Console\bin\Debug\NLog.xml
+E:\Projects\SeleniumTest.Console\bin\Debug\TestCommon.pdb
+E:\Projects\SeleniumTest.Console\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\SeleniumTest.Console\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\SeleniumTest.Console\obj\Debug\SeleniumTest.Console.csprojResolveAssemblyReference.cache
+E:\Projects\SeleniumTest.Console\obj\Debug\SeleniumTest.Console.exe
+E:\Projects\SeleniumTest.Console\obj\Debug\SeleniumTest.Console.pdb

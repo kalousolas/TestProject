@@ -21,3 +21,26 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\obj\Debug\AoPLogging.Console.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\obj\Debug\AoPLogging.Console.exe
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\AoPLogging.Console\obj\Debug\AoPLogging.Console.pdb
+E:\Projects\AoPLogging.Console\bin\Debug\NLog.config
+E:\Projects\AoPLogging.Console\bin\Debug\AoPLogging.Console.exe.config
+E:\Projects\AoPLogging.Console\bin\Debug\AoPLogging.Console.exe
+E:\Projects\AoPLogging.Console\bin\Debug\AoPLogging.Console.pdb
+E:\Projects\AoPLogging.Console\bin\Debug\TestCore.dll
+E:\Projects\AoPLogging.Console\bin\Debug\Castle.Windsor.dll
+E:\Projects\AoPLogging.Console\bin\Debug\System.Web.Http.dll
+E:\Projects\AoPLogging.Console\bin\Debug\Castle.Core.dll
+E:\Projects\AoPLogging.Console\bin\Debug\NLog.dll
+E:\Projects\AoPLogging.Console\bin\Debug\TestCommon.dll
+E:\Projects\AoPLogging.Console\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\AoPLogging.Console\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\AoPLogging.Console\bin\Debug\TestCore.pdb
+E:\Projects\AoPLogging.Console\bin\Debug\Castle.Windsor.xml
+E:\Projects\AoPLogging.Console\bin\Debug\System.Web.Http.xml
+E:\Projects\AoPLogging.Console\bin\Debug\Castle.Core.xml
+E:\Projects\AoPLogging.Console\bin\Debug\NLog.xml
+E:\Projects\AoPLogging.Console\bin\Debug\TestCommon.pdb
+E:\Projects\AoPLogging.Console\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\AoPLogging.Console\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\AoPLogging.Console\obj\Debug\AoPLogging.Console.csprojResolveAssemblyReference.cache
+E:\Projects\AoPLogging.Console\obj\Debug\AoPLogging.Console.exe
+E:\Projects\AoPLogging.Console\obj\Debug\AoPLogging.Console.pdb

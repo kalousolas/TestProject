@@ -3,3 +3,9 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\bin\TestStatic.pdb
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\obj\Debug\TestStatic.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestStatic\obj\Debug\TestStatic.pdb
+E:\Projects\TestStatic\bin\TestStatic.dll.config
+E:\Projects\TestStatic\bin\TestStatic.dll
+E:\Projects\TestStatic\bin\TestStatic.pdb
+E:\Projects\TestStatic\obj\Debug\TestStatic.csprojResolveAssemblyReference.cache
+E:\Projects\TestStatic\obj\Debug\TestStatic.dll
+E:\Projects\TestStatic\obj\Debug\TestStatic.pdb

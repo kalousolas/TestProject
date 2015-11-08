@@ -1,0 +1,12 @@
+E:\Projects\EF.UnitTest\bin\Debug\EF.UnitTest.dll.config
+E:\Projects\EF.UnitTest\bin\Debug\EF.UnitTest.dll
+E:\Projects\EF.UnitTest\bin\Debug\EF.UnitTest.pdb
+E:\Projects\EF.UnitTest\bin\Debug\EntityFramework.dll
+E:\Projects\EF.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\EF.UnitTest\bin\Debug\TestData.dll
+E:\Projects\EF.UnitTest\bin\Debug\TestData.pdb
+E:\Projects\EF.UnitTest\bin\Debug\EntityFramework.xml
+E:\Projects\EF.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\EF.UnitTest\obj\Debug\EF.UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\EF.UnitTest\obj\Debug\EF.UnitTest.dll
+E:\Projects\EF.UnitTest\obj\Debug\EF.UnitTest.pdb

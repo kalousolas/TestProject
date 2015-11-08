@@ -1,0 +1,16 @@
+E:\Projects\EF.Web\bin\EF.Web.dll.config
+E:\Projects\EF.Web\bin\EF.Web.dll
+E:\Projects\EF.Web\bin\EF.Web.pdb
+E:\Projects\EF.Web\bin\System.Web.Helpers.dll
+E:\Projects\EF.Web\bin\System.Web.Razor.dll
+E:\Projects\EF.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\EF.Web\bin\System.Web.Webpages.dll
+E:\Projects\EF.Web\bin\System.Web.Webpages.Razor.dll
+E:\Projects\EF.Web\bin\System.Web.Razor.xml
+E:\Projects\EF.Web\bin\System.Web.Webpages.xml
+E:\Projects\EF.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\EF.Web\bin\System.Web.Webpages.Razor.xml
+E:\Projects\EF.Web\bin\System.Web.Helpers.xml
+E:\Projects\EF.Web\obj\Debug\EF.Web.csprojResolveAssemblyReference.cache
+E:\Projects\EF.Web\obj\Debug\EF.Web.dll
+E:\Projects\EF.Web\obj\Debug\EF.Web.pdb

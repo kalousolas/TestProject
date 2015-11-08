@@ -3,3 +3,8 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\bin\TestFields.pdb
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\obj\Debug\TestFields.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestFields\obj\Debug\TestFields.pdb
+E:\Projects\TestFields\bin\TestFields.dll.config
+E:\Projects\TestFields\bin\TestFields.dll
+E:\Projects\TestFields\bin\TestFields.pdb
+E:\Projects\TestFields\obj\Debug\TestFields.dll
+E:\Projects\TestFields\obj\Debug\TestFields.pdb

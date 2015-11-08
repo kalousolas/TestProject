@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLoadTest", "WebLoadTest\WebLoadTest.csproj", "{DFC282F1-BFB2-4F8B-97D6-A9DF73570650}"
 EndProject
@@ -29,6 +29,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFlight.Webapi", "SearchFlight.Webapi\SearchFlight.Webapi.csproj", "{2E0226E5-A497-49EF-A988-7660E971D9A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFlight.Web", "SearchFlight.Web\SearchFlight.Web.csproj", "{D5BC722D-3F3D-4DF2-AAE9-504108CF6874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.UnitTest", "EF.UnitTest\EF.UnitTest.csproj", "{A2EECE7B-1CE7-4AC3-830B-5F7D7D6EDA68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -80,6 +82,10 @@ Global
 		{D5BC722D-3F3D-4DF2-AAE9-504108CF6874}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5BC722D-3F3D-4DF2-AAE9-504108CF6874}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5BC722D-3F3D-4DF2-AAE9-504108CF6874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EECE7B-1CE7-4AC3-830B-5F7D7D6EDA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EECE7B-1CE7-4AC3-830B-5F7D7D6EDA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EECE7B-1CE7-4AC3-830B-5F7D7D6EDA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EECE7B-1CE7-4AC3-830B-5F7D7D6EDA68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

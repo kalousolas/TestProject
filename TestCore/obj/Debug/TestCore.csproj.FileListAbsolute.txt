@@ -23,3 +23,28 @@ C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\b
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\obj\Debug\TestCore.csprojResolveAssemblyReference.cache
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\obj\Debug\TestCore.dll
 C:\Users\MURATGUMUS\Documents\Visual Studio 2013\Projects\TestProject\TestCore\obj\Debug\TestCore.pdb
+E:\Projects\TestCore\bin\NLog.config
+E:\Projects\TestCore\bin\TestCore.dll.config
+E:\Projects\TestCore\bin\TestCore.dll
+E:\Projects\TestCore\bin\TestCore.pdb
+E:\Projects\TestCore\bin\Castle.Core.dll
+E:\Projects\TestCore\bin\Castle.Windsor.dll
+E:\Projects\TestCore\bin\Newtonsoft.Json.dll
+E:\Projects\TestCore\bin\NLog.dll
+E:\Projects\TestCore\bin\System.Net.Http.Formatting.dll
+E:\Projects\TestCore\bin\System.Web.Http.dll
+E:\Projects\TestCore\bin\System.Web.Http.WebHost.dll
+E:\Projects\TestCore\bin\TestCommon.dll
+E:\Projects\TestCore\bin\TestFields.dll
+E:\Projects\TestCore\bin\TestCommon.pdb
+E:\Projects\TestCore\bin\TestFields.pdb
+E:\Projects\TestCore\bin\Castle.Core.xml
+E:\Projects\TestCore\bin\Castle.Windsor.xml
+E:\Projects\TestCore\bin\Newtonsoft.Json.xml
+E:\Projects\TestCore\bin\NLog.xml
+E:\Projects\TestCore\bin\System.Net.Http.Formatting.xml
+E:\Projects\TestCore\bin\System.Web.Http.xml
+E:\Projects\TestCore\bin\System.Web.Http.WebHost.xml
+E:\Projects\TestCore\obj\Debug\TestCore.csprojResolveAssemblyReference.cache
+E:\Projects\TestCore\obj\Debug\TestCore.dll
+E:\Projects\TestCore\obj\Debug\TestCore.pdb
